@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-DEBISS-eval is a subcorpus derived from [DEBISS (Individual, Spoken, and Semi-Structured Debates)](http://docs.google.com/link-to-main-DEBISS-repository-if-it-exists-or-paper), focused on providing rich data for research in debate quality assessment and debater performance analysis. This corpus contains detailed evaluations of academic debates in Brazilian Portuguese, conducted by expert judges.
+DEBISS-eval is a subcorpus derived from [DEBISS (Individual, Spoken, and Semi-Structured Debates)](https://sol.sbc.org.br/index.php/stil/article/view/37860), focused on providing rich data for research in debate quality assessment and debater performance analysis. This corpus contains detailed evaluations of academic debates in Brazilian Portuguese, conducted by expert judges.
 
 The evaluations were carried out on 16 debates, involving 67 first-semester computer science students, who discussed the theme "Generative Artificial Intelligence and its impacts on society." Five judges with backgrounds in Linguistics (Brazilian Portuguese) and prior experience in the debate genre evaluated each debate and the debaters' performance.
 
